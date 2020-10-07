@@ -1,16 +1,13 @@
 # animatednavbar
 
-A new Flutter project.
+Animated Bottom Navigation Bar - Using Bottom Navy Bar Package.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can read more about Bottom Navy Bar: https://pub.dev/packages/bottom_navy_bar'
 
-A few resources to get you started if this is your first Flutter project:
+## Demo of our app 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![animated_bottom_navigationbar](<https://raw.githubusercontent.com/FarrukhSajjad/animatednavbar/master/assets/asset.gif>)
+
